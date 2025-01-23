@@ -34,4 +34,4 @@ A passionate developer from WenZhou China with a keen interest in technology and
 
 ---
 
-*Crafted with ❤️ by JObO*
+*Crafted with ❤️ by JOBO*
