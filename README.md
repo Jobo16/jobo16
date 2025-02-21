@@ -24,7 +24,7 @@ A passionate developer from WenZhou China with a keen interest in technology and
 ### 📫 Connect With Me
 
 [![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://118.31.76.45/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asdfgh20220610@163.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jo-bo@qq.com)
 
 ### 🏆 Achievements & Interests
 
