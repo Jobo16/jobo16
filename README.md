@@ -7,12 +7,6 @@ Welcome to my little corner of the internet. I love blending clean code with pla
 - Backend curious, frontend playful, always learning.
 - Currently experimenting with AI-assisted coding and developer productivity tools.
 
-### 🔥 Quick Stats
-
-| GitHub Streak | Profile Stats | Top Languages |
-| --- | --- | --- |
-| <img src="https://streak-stats.demolab.com?user=jobo16&theme=tokyonight" /> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jobo16&show_icons=true&theme=tokyonight" /> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jobo16&layout=compact&theme=tokyonight" /> |
-
 
 ### 🛠️ Technologies & Tools
 <div align="center">
