@@ -12,8 +12,7 @@ Welcome to my little corner of the internet. I love blending clean code with pla
 
 | GitHub Streak | Profile Stats | Top Languages |
 | --- | --- | --- |
-
-| <img src="https://streak-stats.demolab.com?user=JOBO&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> | <img src="https://github-readme-stats.vercel.app/api?username=JOBO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOBO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /> |
+| <img src="https://streak-stats.demolab.com?user=jobo16&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> | <img src="https://github-readme-stats.vercel.app/api?username=jobo16&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobo16&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /> |
 
 </div>
 
