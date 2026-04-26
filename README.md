@@ -1,50 +1,76 @@
-# Hello there! 👋 I'm ***JOBO***
+# Hi, I'm JOBO
 
-Welcome to my little corner of the internet. I love blending clean code with playful experiences, so this page now highlights my work, interests, and ways to connect.
+AI 技术的探索者和实践者，正在用 AI Coding 把想法快速变成可运行的产品、工具和工作流。
 
-## 🚀 About Me
-- Vibe coder | English + Chinese | Tennis | Build in Public
-- Backend curious, frontend playful, always learning.
-- Currently experimenting with AI-assisted coding and developer productivity tools.
+I'm not following a traditional engineering path.  
+I study problems through products, learn by building, and use AI agents to turn ideas into real systems.
 
 
-### 🛠️ Technologies & Tools
+## GitHub Snapshot
+
 <div align="center">
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![JOBO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jobo16&show_icons=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobo16&layout=compact&hide_border=true)
 
 </div>
 
-### 🧩 Favorite Components
-- **Interactive widgets:** badges, profile cards, and stats to show the story behind the code.
-- **Data visualizations:** spark-lines and language charts to keep progress visible.
-- **Automation hooks:** GitHub Actions, pre-commit, and CI toys to ship reliably.
 
-### 🌟 Featured Work
-- **Mini automations:** scripts that keep dev workflows tidy.
-- **Open source exploration:** small contributions to tooling and docs.
-- **AI experiments:** prompts, prototypes, and model helpers.
+## About Me
 
-### 📫 Connect With Me
+- English major at Zhejiang University of Technology
+- Product + backend intern, working on AI tools, data workflows, SCRM, and IELTS Claw
+- Heavy user of Codex, ChatGPT, Claude Code, Trae, and other AI coding tools
+- Interested in AI SaaS, developer tools, automation, content engineering, and practical product systems
+- English + Chinese
+- Tennis player
+
+
+## What I Care About
+
+I care less about stacking buzzwords, and more about building things that actually run.
+
+- How to turn raw ideas into usable tools
+- How AI agents can participate in real software development
+- How content, code, data, and automation can connect into workflows
+- How to build small but complete systems with product value
+- How to keep learning through shipping
+
+
+## Tools I Use Often
+
 <div align="center">
 
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
+![Trae](https://img.shields.io/badge/Trae-111111?style=flat-square)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+
+
+## Current Direction
+
+I want to become someone who understands business, technology, AI, and product execution.
+
+My current focus is not to look like a full-stack expert on paper, but to combine AI-era tools, workflow design, and product judgment to build things that are real, useful, and maintainable.
+
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jobo16)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jo-bo@qq.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/BJO221238954295)
 
 </div>
-
-### 🏆 Interests
-- 💡 Passionate about solving real-world problems through technology.
-- 🌐 Open-source contributor and community learner.
-- 🤖 Tech enthusiast with a growth mindset.
-- 🎾 Tennis player keeping balance on and off the court.
 
 ---
 
-*Crafted with ❤️ by JOBO — always building, always curious.*
+> First principles. Low noise. Build real things.
